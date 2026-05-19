@@ -14,7 +14,7 @@ jobs:
             jdk: 11
             profile: ''
           - os: ubuntu-latest
-            jdk: 21
+            jdk: 25
             profile: ''
           - os: windows-2022
             jdk: 11
